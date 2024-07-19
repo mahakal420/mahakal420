@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm an undergraduate student in the computer science engineering in Shri ram institute of tecnology ,willing to contribute on opensource projects.
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/arpitcoder)
+
 
 <!--
 **mahakal420/mahakal420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
